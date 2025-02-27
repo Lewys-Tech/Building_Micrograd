@@ -1,4 +1,4 @@
-Micrograd
+Micrograd (The spelled out intro into neural network and backpropagation)
 
 A lightweight, educational implementation of a neural network autograd engine, inspired by Andrej Karpathy's Micrograd tutorial. This project demonstrates the fundamentals of backpropagation and automatic differentiation in a simple, from-scratch Python library.
 
